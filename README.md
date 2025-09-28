@@ -4,10 +4,10 @@ This repository contains jupyter notebooks (.ipynb) files used in the IK5127 Art
 ## Requirements
 Make sure you have **Python 3.8 or newer** installed, then install the required packages by running the command below in your terminal or command prompt.
 ```bash
-pip install numpy matplotlib nnfs
+pip install numpy matplotlib nnfs scikit-learn
 ```
 
-For Torch and TorchVision, you can install either the version CPU-only version or the CUDA-enabled version (depending on whether your laptop/computer supports CUDA).
+For Torch and TorchVision, you can install either the CPU-only version or the CUDA-enabled version (depending on whether your laptop/computer supports CUDA).
 
 Install the CPU-only version:
 ```bash
